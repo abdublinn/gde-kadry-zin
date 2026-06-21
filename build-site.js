@@ -700,6 +700,7 @@ function renderIndex(articlesByNum) {
       Книга про самую дорогую и самую нервную часть бизнеса, про людей. Не про модную мотивацию плакатами, а про то, как нанимать, платить, учить и расставаться так, чтобы дело не держалось на одном незаменимом герое. Примеры из мебельного дела, логика для любого бизнеса. Книга растёт глава за главой.
     </p>
     <a class="hero__cta" href="#toc">К содержанию →</a>
+    <p class="hero__download" style="margin-top:1rem"><a href="gde-kadry-zin.docx" download="Где кадры, Зин.docx">Скачать всю книгу одним файлом (.docx)</a></p>
     <div class="hero__author">${esc(AUTHOR.displayName)} · ${META.year}</div>
   </div>
 </section>
